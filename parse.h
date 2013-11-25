@@ -1,3 +1,12 @@
+
+// This file is provided without any warranty of fitness
+// for any purpose. You can redistribute this file
+// and/or modify it under the terms of the GNU
+// Lesser General Public License (LGPL) as published
+// by the Free Software Foundation, either version 3
+// of the License or (at your option) any later version.
+// (see http://www.opensource.org/licenses for more info)
+
 /*! Function to parse values from any .txt file to a variable
 Example:
     string name;
@@ -8,6 +17,8 @@ Note:
     Define '_DEBUG_PARSE_ENABLE' for printing debug info...
 Warnings:
     Operator >> has to be defined for input type 'T' of value.
+Author:
+    Anver Hisham <anverhisham@gmail.com>
 */
 
 #ifndef PARSE_HEADER_H
